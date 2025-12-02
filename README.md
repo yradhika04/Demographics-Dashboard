@@ -1,6 +1,6 @@
 # Demographics Dashboard
 
-This project analyzes **user demographic data** collected for a study exploring over-reliance on LLMs (Large Language Model) for my master's thesis. The data is **cleaned** using **SQL** and then **visualized** on **Tableau**. 
+This project analyses **user demographic data** collected for a study exploring over-reliance on LLMs (Large Language Model) for my master's thesis. The data is **cleaned** using **SQL** and then **visualised** on **Tableau**. 
 
 ### Tools Used
 - SQL (PostgreSQL via DataGrip)
@@ -12,7 +12,7 @@ This project analyzes **user demographic data** collected for a study exploring 
 ### Workflow
 1. Data Collection
 2. Data Cleaning
-3. Visualization
+3. Visualisation
 
 ### Repo Structure
 - **data/:** Participant demographic data
